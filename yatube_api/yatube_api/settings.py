@@ -97,3 +97,5 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
     ]
 }
+
+EMPTY_VALUE_DISPLAY = '-пусто-'
