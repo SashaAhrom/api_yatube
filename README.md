@@ -26,5 +26,4 @@ The project has the following endpoints:
 Python 3.7
 Django 2.2.19
 Djangorestframework 3.12.4
-HTML 5
 ```
